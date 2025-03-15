@@ -9,7 +9,6 @@ A stunning and functional retractable sidebar for Next.js built on top of [shadc
 - Sheet menu for mobile
 - Grouped menu with labels
 - Collapsible submenu
-- Extracted menu items list
 
 ## Tech/framework used
 
